@@ -1,0 +1,32 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-sales-quotation-reads/SAP_API_Caller/caller.go#L67",
+	"function": "sap-api-integrations-sales-quotation-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"SalesQuotation": "20000001",
+			"PartnerFunction": "SP",
+			"Customer": "1",
+			"Supplier": ""
+		},
+		{
+			"SalesQuotation": "20000001",
+			"PartnerFunction": "BP",
+			"Customer": "1",
+			"Supplier": ""
+		},
+		{
+			"SalesQuotation": "20000001",
+			"PartnerFunction": "PY",
+			"Customer": "1",
+			"Supplier": ""
+		},
+		{
+			"SalesQuotation": "20000001",
+			"PartnerFunction": "SH",
+			"Customer": "1",
+			"Supplier": ""
+		}
+	],
+	"time": "2022-09-20T16:39:12+09:00"
+}
