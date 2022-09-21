@@ -79,6 +79,7 @@ func (c *SAPAPICaller) Header(salesQuotation string) {
 	} else {
 		c.log.Info(itemPricingElementData)
 	}
+	return
 }
 
 func (c *SAPAPICaller) callSalesQuotationSrvAPIRequirementHeader(api, salesQuotation string) ([]sap_api_output_formatter.Header, error) {
